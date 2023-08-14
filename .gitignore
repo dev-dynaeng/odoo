@@ -47,6 +47,4 @@ package.json
 /man/
 /share/
 /src/
-
-# odoo conf
-/conf/
+odoo.conf
